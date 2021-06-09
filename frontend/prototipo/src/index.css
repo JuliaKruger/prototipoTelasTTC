@@ -1,0 +1,34 @@
+.sider {
+  background-color: #383A3B;
+  color: #fff;
+}
+
+.textSider:hover {
+  color: #FF6A12 !important;
+}
+
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(218, 26, 26, 0.2);
+ }
+  
+ .site-layout-sub-header-background {
+  background: #383A3B;
+ }
+  
+ .site-layout-background {
+  background: #fff;
+ }
+  [data-theme="dark"] .site-layout-sub-header-background {
+  background: #141414;
+  }
+
+  .aderido {
+    justify-content: space-between;
+    display: flex;
+  }
+
+  #logoAmbevTech {
+    margin-left: 30px;
+  }
